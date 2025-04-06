@@ -10,8 +10,8 @@ The piece interacts with the acoustics of the waiting room, merging with the sta
 
 The installation is built using a Bela board and programmed in Pure Data, enabling real-time audio processing and responsive interaction in the physical space.
 
-![Photo 01](./vordingborg_01.jpg)
+![Photo 01](./Vordingborg_01.jpg)
 
-![Photo 02](./vordingborg_02.jpg)
+![Photo 02](./Vordingborg_02.jpg)
 
-![Photo 03](./vordingborg_03.jpg)
+![Photo 03](./Vordingborg_03.jpg)
