@@ -8,7 +8,7 @@ Genhør Vordingborg Station is a site-specific sound installation that interpret
 
 The piece interacts with the acoustics of the waiting room, merging with the station’s present-day soundscape to connect past and present life at Vordingborg Station.
 
-The installation is built using a Bela board and programmed in Pure Data, enabling real-time audio processing and responsive interaction in the physical space.
+The installation is built using a Bela board and programmed in Pure Data.
 
 ![Photo 01](./Vordingborg_01.jpg)
 
